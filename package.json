@@ -1,7 +1,7 @@
 {
   "name": "social-enterprise-gitbook",
   "version": "0.0.1",
-  "description": "社會企業公司法",
+  "description": "公司法：社會企業",
   "private": true,
   "devDependencies": {
     "gitbook": "1.5.0",
